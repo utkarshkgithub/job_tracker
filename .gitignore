@@ -1,0 +1,33 @@
+# Build artifacts
+backend/**/bin/
+backend/**/obj/
+frontend/dist/
+
+# Angular tooling
+frontend/.angular/
+
+# Dependencies
+node_modules/
+
+# Environments and secrets
+.env
+.env.*
+
+# IDEs / editors
+.vs/
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/launch.json
+!.vscode/tasks.json
+!.vscode/extensions.json
+
+# Agent tooling (not part of the app)
+.agents/
+.taste-skill/
+skills-lock.json
+
+# System files
+.DS_Store
+Thumbs.db
+*.log
