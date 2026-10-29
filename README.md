@@ -1,6 +1,6 @@
 # CareerFlow — Job Application Tracking System
 
-CareerFlow is an end-to-end, production-grade SaaS job application tracking and interview management platform with a polish-first UI/UX standard.
+CareerFlow is an end-to-end, production-grade SaaS job application tracking and interview management platform.
 
 ## Technology Stack
 
